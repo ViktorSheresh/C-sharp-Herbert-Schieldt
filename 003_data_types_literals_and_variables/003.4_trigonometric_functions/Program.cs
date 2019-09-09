@@ -18,7 +18,6 @@ namespace _003._4_trigonometric_functions
                 Console.WriteLine("Cosine of " + theta + " is " + Math.Cos(theta));
                 Console.WriteLine("Tangent of " + theta + " is " + Math.Tan(theta));
                 Console.WriteLine();
-
             }
         }
     }
